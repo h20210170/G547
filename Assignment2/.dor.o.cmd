@@ -1,0 +1,1 @@
+cmd_/home/shallini/Desktop/2021H1400168P/dor.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/shallini/Desktop/2021H1400168P/dor.o /home/shallini/Desktop/2021H1400168P/ram_block.o /home/shallini/Desktop/2021H1400168P/ram_device.o /home/shallini/Desktop/2021H1400168P/partition.o 
